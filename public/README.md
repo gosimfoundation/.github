@@ -4,7 +4,7 @@
 
 Created by the Open-Source Community, For the Open-Source Community.
 
-<img src="images/gosim-banner.jpg" alt="GOSIM Banner" />
+<img src="images/gosim-banner.webp" alt="GOSIM Banner" />
 
 ## A Global Nexus for Open Source Innovation
 
