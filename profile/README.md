@@ -1,6 +1,6 @@
 # GOSIM Foundation
 
-## Global Open- Source Innovation Meetup
+## Global Open-Source Innovation Meetup
 
 Created by the Open-Source Community, For the Open-Source Community.
 
